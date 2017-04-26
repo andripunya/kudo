@@ -1,7 +1,7 @@
 {
   "name": "peekops",
   "version": "0.0.1",
-  "description": "To take a peek on your Ops skills.",
+  "description": "Take DevOps skills.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -10,7 +10,7 @@
     "init": "cp -av config/dotenv .env",
     "test": "mocha test/*.js"
   },
-  "author": "Dwi Sasongko S",
+  "author": "Dwi Sasongko S & Lumban S.",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^2.0.0",
