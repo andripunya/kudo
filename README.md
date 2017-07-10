@@ -19,7 +19,7 @@ npm test     # Verify your solution.
   - Express based app
   - sshd
 * Database Server
-  - MariaDB
+  - PostgreSQL
 * Cache Server
   - Redis
 
