@@ -50,6 +50,10 @@ docker run --name some-redis -d \
 --net netkudo \
 --ip $CACHE_TARGET_MACHINE redis
 
+mkdir myapp
+cd myapp
+npm init
+npm install express --save
 
 
 
